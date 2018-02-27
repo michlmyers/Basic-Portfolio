@@ -85,6 +85,44 @@ aside {
     width: 200px;
 }
 
+.para {
+    z-index:100;
+    position: absolute;    
+    color: #ffffff;
+    padding: 10px;
+    margin: 12px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: #4aaaa5;
+}
+
+#hang {
+    left: 170px;
+    top: 390px;
+    width: 150px;
+}
+
+#rpg {
+    left: 350px;
+    top: 390px;
+}
+
+#triv { 
+    left: 170px;
+    top: 600px;
+}
+
+#info {
+    left: 350px;
+    top: 600px;
+}
+
+#rock {
+    left: 170px;
+    top: 800px;
+}
+
 #imgMe {
     height: 200px;
     width: 200px;
